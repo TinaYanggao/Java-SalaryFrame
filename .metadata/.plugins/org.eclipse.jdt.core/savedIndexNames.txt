@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\CL1 PC.CL1PC04\Desktop\Yanggao Christinalyn B. 1E\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1717049170.index
+1696264553.index
+3183112609.index
